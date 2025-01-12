@@ -5,6 +5,7 @@ This project involves creating a contact form, saving the data as a CSV file, an
 ---
 
 ## Part 1: Contact Form and Saving Data to a CSV
+First start by forking this repo so that you can show your work. 
 
 ### Step 1: Create the Contact Form
 1. Create an `index.html` file.

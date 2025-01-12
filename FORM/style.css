@@ -1,0 +1,23 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color:bisque ;
+    background: linear-gradient(rgb(0, 195, 255), rgb(182, 173, 230));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 10em;
+}
+
+.buttons{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+.buttons:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 60, 0);
+}
+
+.myH1{
+    color: black;
+}
+

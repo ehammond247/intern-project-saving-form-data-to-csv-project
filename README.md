@@ -1,8 +1,6 @@
 # intern-project-saving-form-data-to-csv-project
 Every intern should be able to complete this project before beginning work on real world projects. This is the first of 4 projects.
 
-# Define the content for the .md file
-content = """
 # Contact Form to CSV and Table Display Project
 
 This project involves creating a contact form, saving the data as a CSV file, and displaying the data in a table. It is designed for beginner developers to practice HTML, CSS, and JavaScript concepts.

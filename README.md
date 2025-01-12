@@ -116,12 +116,4 @@ This project involves creating a contact form, saving the data as a CSV file, an
 ## General JavaScript Resources for Intern
 - [JavaScript Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)  
 - [ES6 Features Overview](https://www.freecodecamp.org/news/es6-guide/)  
-- [Debugging JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)  
-"""
-
-# Save the content to a .md file
-file_path = "/mnt/data/Contact_Form_Project.md"
-with open(file_path, "w") as file:
-    file.write(content)
-
-file_path
+- [Debugging JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong) 
